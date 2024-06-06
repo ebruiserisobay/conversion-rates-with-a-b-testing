@@ -1,5 +1,5 @@
 # conversion-rates-with-a-b-testing
-Comparison of Conversion Rates of Bidding Methods 
+# Comparison of Conversion Rates of Bidding Methods 
 
 ## 1. Business Problem
 
